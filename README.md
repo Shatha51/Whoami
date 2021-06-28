@@ -1,16 +1,11 @@
 ### Hi there 👋
-
-<!--
-**dura51/dura51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is dura51 
+* my nickname is dura
+* IT support
+* Black hat 
+* Network analyst
+* OS expert
+* Cyber security
+* I'm a programmer
+* making some scripts with shell script, soon we'll make tools with other programming languages
+* I hope you like my scripts and if you like it please make sure to give me a star and follow me on my Youtube channel (:
