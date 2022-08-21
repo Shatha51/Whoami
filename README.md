@@ -6,4 +6,4 @@ This is dura51
 * Programmer
 * making some scripts with shell script, soon we'll make tools with other programming languages
 * I hope you like my scripts 
-* [follow me on Youtube channel](https://www.youtube.com/channel/UCy1VY5S4o7wqp4A2KmXF6Yw)
+* [Follow me on YouTube channel](https://www.youtube.com/channel/UCy1VY5S4o7wqp4A2KmXF6Yw)
